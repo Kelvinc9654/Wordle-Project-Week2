@@ -34,6 +34,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+<div>
+    <a href="https://www.loom.com/share/cf9822cfb01e4f15838053415ba70b09">
+    </a>
+    <a href="https://www.loom.com/share/cf9822cfb01e4f15838053415ba70b09">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cf9822cfb01e4f15838053415ba70b09-8d0fb25bf2623618-full-play.gif">
+    </a>
+  </div>
+
 ## Notes
 
 Describe any challenges encountered while building the app.
